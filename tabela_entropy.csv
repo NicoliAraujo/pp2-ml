@@ -1,0 +1,18 @@
+Critério,profundidade,Qtd. Caracteristicas,Qtd. Nós folhas,F-Score
+Entropy,200,3,5,0.4709
+Entropy,300,4,6,0.5034
+Entropy,400,5,6,0.4908
+Entropy,250,6,7,0.5063
+Entropy,350,7,8,0.5130
+Entropy,450,5,9,0.4982
+Entropy,550,5,12,0.4786
+Entropy,500,4,8,0.5217
+Entropy,10,3,5,0.4869
+Entropy,10,5,5,0.5185
+Entropy,5,4,6,0.4702
+Entropy,50,5,7,0.5180
+Entropy,100,6,9,0.5120
+Entropy,25,7,11,0.5176
+Entropy,150,5,13,0.5053
+Entropy,75,7,15,0.5046
+Entropy,35,6,10,0.5134
